@@ -29,9 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - README.MD
+- Figma
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2023.
+O Devlinks è um agregador de links para usar como cartão de visitas online
 
 ## 🔖 Layout
 
