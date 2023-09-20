@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Dev </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido por Lucas Barbosa para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido por Lucas Barbosa para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/Image_Notion.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- README.MD
 ## 💻 Projeto
 
 O Calendário da Copa é um projeto que mostra os jogos da Copa de 2023.
